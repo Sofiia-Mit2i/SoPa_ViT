@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "f827449efa9559e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d775567d77dbbed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfc60b0ae467c817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sources"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5293de2822c24832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d609abc0b0bc7ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sources"
+            }
+          },
+          {
+            "id": "6c34cf94fd3eb12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vision Transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vision Transformer"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e59739fe13dbbd69",
+    "type": "split",
+    "children": [
+      {
+        "id": "1739f782ae51e58c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9e93de57a6032b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "334f28334bdde42f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "777b6c457acc7524",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4893270f05b8f07e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fac9121988929d3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "668eb6882e68f7e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sources"
+            }
+          },
+          {
+            "id": "17b5b5409d1a899a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vision Transformer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vision Transformer"
+            }
+          },
+          {
+            "id": "2bc2ead4c6a51cf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5cf58db8d9b54453",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vision Transformer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vision Transformer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6c34cf94fd3eb12f",
+  "lastOpenFiles": [
+    "Sources.md",
+    "GC ViT.pdf",
+    "Vision Transformer.md",
+    "Time Management.md",
+    "Tensor.md",
+    "NLP.md",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/a_data/a.html",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/a.html",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/a_002.html",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science.html",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/Screenshot-2025-02-28-at-12.44.08 PM-300x115.png",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/1dBCvpDRdc08tKiIuq28_zg-2048x1207.webp",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/0c09RmbCCpfjAbSMq-768x353.webp",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/0IrIdXcKX9t-38o-r-200x300.jpg",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/unnamed-43-297x300.png",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/unnamed-48-300x208.png",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/unnamed-45-300x159.png",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/unnamed-52-300x122.png",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/unnamed-44-300x209.png",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/unnamed-47-300x210.webp",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/gtm.js",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/post-template-view-script.js",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/site-header.css",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/view-module_004.js",
+    "Vision Transformers (ViT) Explained_ Are They Better Than CNNs_ _ Towards Data Science-Dateien/style.min_006.css",
+    "Welcome.md",
+    "Untitled.canvas",
+    "2025-03-17.md"
+  ]
+}
